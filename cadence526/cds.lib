@@ -16,7 +16,7 @@ DEFINE INVERTER /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/INVERTER
 DEFINE NAND /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/NAND
 DEFINE AND /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/AND
 DEFINE OR /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/OR
-DEFINE EX#2dOR /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/EX#2dOR
+#DEFINE EX#2dOR /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/EX#2dOR
 DEFINE xor /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/xor
 DEFINE full_adder /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/full_adder
 #DEFINE full_adder /u/kunduru/FreePDK45/ncsu_basekit/cdssetup/cadence526/full_adder
